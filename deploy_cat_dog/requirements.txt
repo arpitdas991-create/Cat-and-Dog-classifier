@@ -1,0 +1,13 @@
+fastai==2.8.7
+fastapi==0.139.0
+gradio==6.19.0
+gradio_client==2.5.0
+huggingface_hub==1.22.0
+matplotlib==3.10.9
+matplotlib-inline==0.2.2
+numpy==2.4.5
+pillow==12.2.0
+scikit-learn==1.8.0
+scipy==1.17.1
+torch==2.12.0
+torchvision==0.27.0
